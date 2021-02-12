@@ -633,8 +633,7 @@ class: inverse, center, middle
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
-<h2>Évaluation des effets cumulatifs</h2>
-<h2>Une perspective écosystémique</h2>
+<h2>Approche générale</h2>
 <h2>Système du Saint-Laurent</h2>
 <h2 style="color:#ffdd55;"><b>Gestion des connaissances</b></h2>
 
